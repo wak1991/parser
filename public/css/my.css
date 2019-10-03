@@ -1,0 +1,29 @@
+.main-slogan{
+    background: #eaeaea;
+    text-align: center;
+    padding: 50px 0;
+    border-top: 1px solid #cfcfcf;
+    border-bottom: 3px solid #dadada;
+}
+.main-slogan h1{
+    font-size: 30px;
+    margin: 0;
+}
+.main-content h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+.main-content .btn{
+    margin: 20px;
+}
+table.table form
+{
+    display: inline-block;
+}
+button.delete
+{
+    background: transparent;
+    border: none;
+    color: #dc3545;
+    padding: 0px;
+}
